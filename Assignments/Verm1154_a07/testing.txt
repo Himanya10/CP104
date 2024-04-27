@@ -1,0 +1,152 @@
+"""
+-------------------------------------------------------
+Assignment 07 Testing
+-------------------------------------------------------
+Author:  Himanya Verma
+ID:      169051154
+Email:   Verm1154@mylaurier.ca
+Version: 2023-11-18
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+[1, 3]
+[1]
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter Positive Number: 5
+Enter Positive Number: 7
+Enter Positive Number: 2
+Enter Positive Number: -7
+[5, 7, 2]
+Enter Positive Number: 5
+Enter Positive Number: 2
+Enter Positive Number: 8
+Enter Positive Number: 9
+Enter Positive Number: 1
+Enter Positive Number: 3
+Enter Positive Number: -9
+[5, 2, 8, 9, 1, 3]
+Enter Positive Number: 1
+Enter Positive Number: 2
+Enter Positive Number: 3
+Enter Positive Number: 4
+Enter Positive Number: 5
+Enter Positive Number: -6
+[1, 2, 3, 4, 5]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter Positive Number: 5
+Enter Positive Number: 1
+Enter Positive Number: 8
+Enter Positive Number: 9
+Enter Positive Number: 5
+Enter Positive Number: 2
+Enter Positive Number: 5
+Enter Positive Number: 3
+Enter Positive Number: -5
+[0, 4, 6]
+Enter Positive Number: 3
+Enter Positive Number: 7
+Enter Positive Number: 2
+Enter Positive Number: 5
+Enter Positive Number: 7
+Enter Positive Number: 3
+Enter Positive Number: 8
+Enter Positive Number: -7
+[1, 4]
+Enter Positive Number: 1
+Enter Positive Number: 2
+Enter Positive Number: 3
+Enter Positive Number: 4
+Enter Positive Number: 5
+Enter Positive Number: 6
+Enter Positive Number: -8
+[]
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter Positive Number: 5
+Enter Positive Number: 5
+Enter Positive Number: 4
+Enter Positive Number: 5
+Enter Positive Number: -5
+minuend after: [4]
+Enter Positive Number: 3
+Enter Positive Number: 7
+Enter Positive Number: 2
+Enter Positive Number: 5
+Enter Positive Number: 7
+Enter Positive Number: 3
+Enter Positive Number: 8
+Enter Positive Number: -7
+minuend after: [2, 5, 8]
+Enter Positive Number: 1
+Enter Positive Number: 2
+Enter Positive Number: 3
+Enter Positive Number: 4
+Enter Positive Number: 5
+Enter Positive Number: 6
+Enter Positive Number: -8
+minuend after: [1, 2, 3, 4, 5, 6]
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter Positive Number: 23
+Enter Positive Number: 41
+Enter Positive Number: 99
+Enter Positive Number: -1
+(True, -1)
+Enter Positive Number: 99
+Enter Positive Number: 23
+Enter Positive Number: 41
+Enter Positive Number: -1
+(False, 1)
+Enter Positive Number: 1
+Enter Positive Number: 2
+Enter Positive Number: 3
+Enter Positive Number: 4
+Enter Positive Number: 5
+Enter Positive Number: 6
+Enter Positive Number: -1
+(True, -1)
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+
+-------------------------------------------------------
