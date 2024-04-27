@@ -1,0 +1,49 @@
+"""
+-------------------------------------------------------
+Assignment 1 Testing
+-------------------------------------------------------
+Author:  Himanya Verma
+ID:      169051154
+Email:   verm1154@mylaurier.ca
+Version: 2023-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "program"?
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language:
+input: Get data from the keyboard, a file, or some other device.
+output: Display data on the screen or send data to a file or other device.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and execute the appropriate code.
+repetition: Perform some action repeatedly, usually with some variation.
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your age? 60
+What is your favourite band? The Beatles
+I am 60 years old and The Beatlesis my favourite band.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Length in miles: 35
+Length in km: 56.35
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Cost of 1 dosa: $ 1.95
+Number of dosa: 3
+Total cost of 3 dosas: $5.85 
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Principal: $5000
+Intrest(%): 5
+Number of Years: 10
+Number of times intrest compounded per year: 12
+Balance: $8235.0474884514
+-------------------------------------------------------
